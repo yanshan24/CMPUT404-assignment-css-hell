@@ -1,0 +1,64 @@
+body {
+  background-color: lightblue;
+  margin-right: 15%;
+  margin-left: 15%;
+  text-align: justify;
+  background: #FFEFD5
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-family: serif, Sans-serif, Cursive;
+}
+
+p {
+  font-family: serif, Sans-serif, Cursive;
+  font-size: 20px;
+}
+
+h2, h3, h4, h5, h6 {
+    text-align: center;
+    font-family: serif, Sans-serif, Cursive;
+    line-height: 1.5;
+    margin-top: .5em;
+    margin-bottom:.5em;
+}
+hr {
+    width: 80%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+table{
+    position: relative;
+    margin-right: 10em;
+}
+
+a:link {
+    color:blue;
+    text-decoration:none;
+}
+a:visited {
+    color:blue;
+    text-decoration:none;
+}
+a:hover {
+    color:white;
+}
+div.fig {
+    display:block;
+    margin:0 auto;
+    text-align:center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+img {
+	border:none;
+	margin-left: auto;
+	margin-right: auto
+}
+figcaption {
+	font-weight: bold
+}

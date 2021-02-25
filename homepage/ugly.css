@@ -1,0 +1,66 @@
+.navigation {
+  margin-right: 15%;
+  margin-left: 15%;
+  text-align: justify;
+  background-image: linear-gradient(#EE82EE, #FF7F50);
+  margin-top: .5em;
+  margin-bottom:.5em;
+}
+
+.education, .Projects, .toOffer {
+  background-color: black;
+  margin-right: 15%;
+  margin-left: 15%;
+  text-align: justify;
+  color: fuchsia;
+}
+
+h1 {
+  color: orange;
+  text-align: center;
+  text-emphasis: filled red;
+  -webkit-text-emphasis: filled red;
+  font-family: serif, Sans-serif;
+  margin-bottom:1em;
+  margin-right: 15%;
+  margin-left: 15%;
+  background: radial-gradient(#30f0e9, #468cdb);
+}
+
+
+h2, h3, h4, h5, h6 {
+    text-align: center;
+    font-family: serif, Sans-serif;
+    line-height: 1.5;
+    margin-top: .5em;
+    margin-bottom:.5em;
+    color: #800000;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+.sidebar {
+	background-color: #74992e;
+	margin-left: 20px;
+	margin-right: 8px;
+	width: 200px;
+	border-radius: 10%;
+	position: relative;
+	float: left;
+	margin-top: 20px;
+	margin-bottom: 30px;
+    color: white;
+}
+img {
+	border: thick double #32a1ce;
+    margin-top: 1em;
+	margin-left: auto;
+	margin-right: auto;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+figcaption {
+	font-weight: normal;
+    margin-right: 15%;
+    margin-left: 15%;
+    color: #DC143C;
+}
